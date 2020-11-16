@@ -1,0 +1,16 @@
+Code Book
+
+x_train <- Dataframe. X_train dataset
+y_train <- Dataframe. y_train dataset
+x_test <- Dataframe. X_test dataset
+y_test <- Dataframe. y_test dataset
+features <- Dataframe. features dataset
+subjectTrain <- Dataframe. Subject_Train dataset
+subjectTest <- Dataframe. Subject_test dataset
+
+oneDataSet <- merge data from x_train and & x_test
+measurements <- Filter mean & std features
+subject <- merge data from subject train and test
+activity <- merge data from y_train and y_test
+
+
