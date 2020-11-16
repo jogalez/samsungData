@@ -1,6 +1,6 @@
-#Code Book
+# Code Book
 
-##Loading datasets from directory
+## Loading datasets from directory
 x_train <- Dataframe. X_train dataset
 y_train <- Dataframe. y_train dataset
 x_test <- Dataframe. X_test dataset
